@@ -38,6 +38,7 @@
 [](42)長崎県|https://stopcovid19-nagasaki.netlify.com/|Code for Nagasaki|[CodeForNagasaki/covid19](https://github.com/CodeForNagasaki/covid19)|
 [](43)熊本県|https://stop-covid19-kumamoto.netlify.com/|Code for Kumamoto|[codeforkumamoto/covid19](https://github.com/codeforkumamoto/covid19)|
 [](44)大分県|https://oita.stopcovid19.jp/|有志|[covid19-oita/covid19](https://github.com/covid19-oita/covid19)|
+[](44)大分県|https://stopcovid19-oita.netlify.com/|Code for Oita|[codeforoita/covid19](https://github.com/codeforoita/covid19)|
 [](46)鹿児島県|https://covid19.codeforkagoshima.dev/|有志|[codeforkagoshima/covid19](https://github.com/codeforkagoshima/covid19)
 
 ## 都道府県追加時のルール
